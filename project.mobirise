@@ -22,17 +22,19 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 2,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 6,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-fpvlp-black-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
+        "title": "MPIRE's FLP",
+        "meta_descr": "Powered & created by fpvlandingpages.com",
+        "header_custom": "<link rel=\"stylesheet\" type=\"text/css\" href=\"http://www.fpvlandingpages.com/assets/css/libs/fpvLandingPages.css\">",
+        "footer_custom": "\t<a href=\"http://fpvlandingpages.com\" class=\"logo\" target=\"_blank\">\n\t <img class=\"logo\" src=\"http://www.fpvlandingpages.com/assets/images/logo-white.svg\" alt=\"\"> \n\t</a> ",
         "html_before": ""
       },
       "components": [
