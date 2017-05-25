@@ -35,7 +35,7 @@
         "main": true,
         "title": "MPIRE's FLP",
         "meta_descr": "Powered & created by fpvlandingpages.com",
-        "header_custom": "<link rel=\"stylesheet\" type=\"text/css\" href=\"http://www.fpvlandingpages.com/assets/css/libs/fpvLandingPages.css\">",
+        "header_custom": "<meta property=\"og:image\" content=\"http://www.mpire.rocks/og-image.jpg\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"http://www.fpvlandingpages.com/assets/css/libs/fpvLandingPages.css\">",
         "footer_custom": "\t<a href=\"http://fpvlandingpages.com/promo\" class=\"logo\" target=\"_blank\">\n\t <img class=\"logo\" src=\"http://www.fpvlandingpages.com/assets/images/promo.png\" alt=\"giveaway\"> \n\t</a> ",
         "html_before": ""
       },
